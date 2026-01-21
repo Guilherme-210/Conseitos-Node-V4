@@ -2,6 +2,7 @@ const filmesData = [
   {
     id: "1",
     titulo: "O Senhor dos Anéis: A Sociedade do Anel",
+    slug: "o-senhor-dos-aneis-a-sociedade-do-anel",
     tituloOriginal: "The Lord of the Rings: The Fellowship of the Ring",
     ano: 2001,
     duracaoMinutos: 178,
@@ -28,6 +29,7 @@ const filmesData = [
   {
     id: "2",
     titulo: "Interestelar",
+    slug: "interestelar",
     tituloOriginal: "Interstellar",
     ano: 2014,
     duracaoMinutos: 169,
@@ -53,6 +55,7 @@ const filmesData = [
   {
     id: "3",
     titulo: "Cidade de Deus",
+    slug: "cidade-de-deus",
     tituloOriginal: "Cidade de Deus",
     ano: 2002,
     duracaoMinutos: 130,
@@ -78,6 +81,7 @@ const filmesData = [
   {
     id: "4",
     titulo: "Homem-Aranha: Sem Volta Para Casa",
+    slug: "homem-aranha-sem-volta-para-casa",
     tituloOriginal: "Spider-Man: No Way Home",
     ano: 2021,
     duracaoMinutos: 148,
@@ -103,6 +107,7 @@ const filmesData = [
   {
     id: "5",
     titulo: "Parasita",
+    slug: "parasita",
     tituloOriginal: "Gisaengchung",
     ano: 2019,
     duracaoMinutos: 132,
@@ -128,6 +133,7 @@ const filmesData = [
   {
     id: "6",
     titulo: "Mad Max: Estrada da Fúria",
+    slug: "mad-max-estrada-da-furia",
     tituloOriginal: "Mad Max: Fury Road",
     ano: 2015,
     duracaoMinutos: 120,
